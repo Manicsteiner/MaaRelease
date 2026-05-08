@@ -14,7 +14,7 @@
     "Episode17": {
         "baseTask": "SS-OpenOcr",
         "postDelay": 7000,
-        "text": ["相变临界"],
+        "text": ["相变临界", "追加绝境"],
         "next": ["Main17ChapterToMain17"]
     },
     "Main17ChapterToMain17": {
