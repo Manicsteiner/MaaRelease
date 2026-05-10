@@ -1,6 +1,6 @@
 {
   "alpha": {
-    "version": "v6.9.4-alpha.1.d019.g28f588ec87",
+    "version": "v6.9.4-alpha.1.d031.gd3809b5b83",
     "detail": "https://api.maa.plus/MaaAssistantArknights/api/version/alpha.json"
   },
   "beta": {
@@ -12,7 +12,7 @@
     "detail": "https://api.maa.plus/MaaAssistantArknights/api/version/stable.json"
   },
   "version/alpha.json": {
-    "version": "v6.9.4-alpha.1.d019.g28f588ec87"
+    "version": "v6.9.4-alpha.1.d031.gd3809b5b83"
   },
   "version/beta.json": {
     "version": "v6.9.3"
