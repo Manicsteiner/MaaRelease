@@ -283,21 +283,21 @@
   },
   "txwy": {
     "sideStoryStage": {
-      "追跡日落以西 復刻": {
-        "MinimumRequired": "v6.0.0-beta.1",
+      "出蒼白海 復刻": {
+        "MinimumRequired": "v6.0.1",
         "Activity": {
-          "Tip": "SideStory「追跡日落以西」復刻",
-          "StageName": "追跡日落以西 復刻",
-          "UtcStartTime": "2026/03/20 16:00:00",
-          "UtcExpireTime": "2026/03/30 03:59:59",
+          "Tip": "SideStory「出蒼白海」復刻",
+          "StageName": "出蒼白海 復刻",
+          "UtcStartTime": "2026/05/13 16:00:00",
+          "UtcExpireTime": "2026/05/23 03:59:59",
           "TimeZone": 8
         },
         "Stages": [
-          { "Display": "SSReopen-GO", "Value": "SSReopen-GO", "Drop": "代理1~9" },
-          { "Display": "GO-9", "Value": "GO-9", "Drop": "31043" },
-          { "Display": "GO-8", "Value": "GO-8", "Drop": "31013" },
-          { "Display": "GO-7", "Value": "GO-7", "Drop": "30013" },
-          { "Display": "GO-4", "Value": "GO-4", "Drop": "搓玉用" }
+          { "Display": "SSReopen-EP", "Value": "SSReopen-EP", "Drop": "代理1~8" },
+          { "Display": "EP-8", "Value": "EP-8", "Drop": "30093" },
+          { "Display": "EP-7", "Value": "EP-7", "Drop": "30053" },
+          { "Display": "EP-6", "Value": "EP-6", "Drop": "30023" },
+          { "Display": "EP-4", "Value": "EP-4", "Drop": "搓玉用" }
         ]
       },
       "無憂夢囈": {
