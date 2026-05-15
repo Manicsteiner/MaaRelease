@@ -10,19 +10,5 @@
     },
     "GoTerminalStopflag": {
         "templThreshold": 0.65
-    },
-    "Episode17": {
-        "baseTask": "SS-OpenOcr",
-        "postDelay": 7000,
-        "text": ["相变临界", "追加绝境"],
-        "next": ["Main17ChapterToMain17"]
-    },
-    "Main17ChapterToMain17": {
-        "algorithm": "OcrDetect",
-        "action": "ClickSelf",
-        "text": ["接驳区"],
-        "postDelay": 1000,
-        "roi": [1101, 563, 168, 121],
-        "next": ["#self", "ChapterSwipeToTheRight"]
     }
 }
