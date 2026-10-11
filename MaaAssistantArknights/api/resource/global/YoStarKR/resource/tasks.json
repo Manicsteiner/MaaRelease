@@ -13,5 +13,11 @@
     },
     "PAChapterToPA": {
         "text": ["순수", "했던", "날과의", "작별"]
+    },
+    "SpecialAccessActivities": {
+        "ocrReplace": [
+            ["[사-싷][파-핗][사-싷]", "스페셜"],
+            ["슈페셜", "스페셜"]
+        ]
     }
 }
